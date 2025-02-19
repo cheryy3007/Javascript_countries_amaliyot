@@ -1,0 +1,2 @@
+# Javascript_countries_amaliyot
+Javascript_countries_amaliyot
